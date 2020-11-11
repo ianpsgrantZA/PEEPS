@@ -2,8 +2,8 @@
 
 An investigation into crowd-sourced population tracking.
 
-![Welcome](Welcome.jpg)
-![Main Page](Display.jpg)
+![Welcome](Welcome.jpg=250x250)
+![Main Page](Display.jpg=250x250)
 
 # The Project 
 The PEEPS project is split into the following repos:
