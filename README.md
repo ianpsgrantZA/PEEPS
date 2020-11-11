@@ -12,4 +12,4 @@ The PEEPS project is split into the following repos:
 
 # Gallery
 
-<img src="https://github.com/ianpsgrantZA/PEEPS/blob/main/Welcome.jpg" width="200" height="400" />    <img src="https://github.com/ianpsgrantZA/PEEPS/blob/main/Display.jpg" width="200" height="400" />
+<img src="https://github.com/ianpsgrantZA/PEEPS/blob/main/Welcome.jpg" width="200" height="400" />    <img src="https://github.com/ianpsgrantZA/PEEPS/blob/main/Display.jpg" width="200" height="400" />    <img src="https://github.com/ianpsgrantZA/PEEPS/blob/main/Contact.jpg" width="200" height="400" />
