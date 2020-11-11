@@ -2,8 +2,7 @@
 
 An investigation into crowd-sourced population tracking.
 
-![Welcome](Welcome.jpg=250x250)
-![Main Page](Display.jpg=250x250)
+<img src="https://github.com/ianpsgrantZA/PEEPS/blob/main/Display.jpg" width="200" height="400" />
 
 # The Project 
 The PEEPS project is split into the following repos:
